@@ -1,4 +1,4 @@
-# Data_words
+# Data words
 Playing around words. 
 
 * Reading files to get words
