@@ -1,8 +1,8 @@
 # Data words
-Playing around words. 
+Playing around words using base Python and Spacy library
 
 * Reading files to get words
-* Analysis of type of words
-* Comparision vs High Frequency words - Kindergarten and First Grade.
+* Determining how many high Frequency words (Kindergarten to Third Grade) are in a regular book.
+
 
 
